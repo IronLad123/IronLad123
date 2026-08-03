@@ -43,10 +43,10 @@ profile:
 
 | System | Architecture & Engineering Focus | Core Stack | Live Production Link |
 |---|---|---|---|
-| **[HeartGuard AI](https://github.com/IronLad123/heart-disease-prediction-app)** | Cardiovascular risk assessment suite featuring 5-model ensemble architecture, TreeSHAP feature interpretability, and automated PDF report generation. | `Python` `Streamlit` `Scikit-Learn` `SHAP` | 🟢 [Streamlit Cloud](https://github.com/IronLad123/heart-disease-prediction-app) |
+| **[HeartGuard AI](https://github.com/IronLad123/heart-disease-prediction-app)** | Cardiovascular risk assessment suite featuring 5-model ensemble architecture, TreeSHAP feature interpretability, and automated clinical metrics. | `Python` `Streamlit` `Scikit-Learn` `SHAP` | 🟢 [Streamlit Cloud](https://omheart-disease-prediction-app-c9c95zynkbx7ott7vvtmdum.streamlit.app) |
 | **[KeyFlux](https://ironlad123.github.io/typing-test/)** | High-performance typing analytics platform built with zero-latency CSS hardware acceleration, Web Audio sound synthesizer, and SHAP weakness driller. | `JavaScript` `HTML5` `CSS Variables` `Web Audio` | 🌐 [KeyFlux Live Site](https://ironlad123.github.io/typing-test/) |
 | **[Stock Analyzer](https://ironlad123.github.io/Stock_Analyzer/)** | Real-time financial analytics platform with Chart.js visualization, CSV quote-aware statement parser, news sentiment NLP, and strategy backtester. | `JavaScript` `Chart.js` `Python` `Pandas` | 🌐 [Stock Analyzer Site](https://ironlad123.github.io/Stock_Analyzer/) |
-| **[CryptoMed](https://github.com/IronLad123/crypto-med-app)** | Encrypted electronic medical records system utilizing AES-256 + RSA hybrid cryptography and emergency QR code authentication. | `Python` `Cryptography` `Streamlit` `QR Code` | 🔒 [Source Code](https://github.com/IronLad123/crypto-med-app) |
+| **[CryptoMed](https://ironlad123.github.io/crypto-med-app/)** | Encrypted electronic medical records system utilizing AES-256 + RSA hybrid cryptography and emergency in-memory QR code authentication. | `Python` `AES-256` `RSA-2048` `OpenCV` `WebCrypto` | 🔒 [CryptoMed Live Site](https://ironlad123.github.io/crypto-med-app/) |
 
 ---
 
