@@ -1,6 +1,6 @@
 # Om Srivastava ([@IronLad123](https://github.com/IronLad123))
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=0f172a&custom_color_2=3b82f6&height=200&section=header&text=Om%20Srivastava&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20Data%20Science%20Engineer%20%7C%20Full-Stack%20Systems%20Developer&descSize=18&descAlignY=65)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=0f172a&custom_color_2=3b82f6&height=200&section=header&text=Om%20Srivastava&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Data%20Science%20%26%20AI&descSize=18&descAlignY=65)
 
 [![Followers](https://img.shields.io/github/followers/IronLad123?label=Followers&style=flat-square&color=3b82f6&logo=github)](https://github.com/IronLad123)
 [![Stars](https://img.shields.io/github/stars/IronLad123?label=Total%20Stars&style=flat-square&color=10b981&logo=github)](https://github.com/IronLad123?tab=repositories)
@@ -9,48 +9,46 @@
 
 ---
 
-## Technical Profile
+## Technical Overview
 
 ```yaml
-engineer:
+profile:
   name: Om Srivastava
   github: "@IronLad123"
   email: "srivastavaom078@gmail.com"
-  academic_background: "B.Tech in Data Science & Artificial Intelligence"
-  core_competencies:
-    - "Machine Learning & Predictive Modeling (PyTorch, Scikit-Learn, SHAP)"
-    - "Autonomous Multi-Agent AI Systems (Google Antigravity SDK)"
-    - "Financial Analytics & Quantitative Systems (Backtesting, Data Pipelines)"
-    - "High-Performance Web Applications (JavaScript ES6+, Node.js, Web Audio)"
-  engineering_collaboration: "Pair-programming partnership with Google Antigravity AI Systems"
+  education: "B.Tech in Computer Science & Engineering (Specialization in Data Science)"
+  technical_domains:
+    - "Data Science & Machine Learning (Scikit-Learn, PyTorch, Pandas, NumPy)"
+    - "Software Engineering & System Architecture (Python, C++, JavaScript)"
+    - "Full-Stack Web Development (Node.js, Express, React, Web APIs)"
+    - "Autonomous Multi-Agent AI Workflows (Google Antigravity SDK)"
+  collaboration: "Engineering partner with Google Antigravity AI Systems"
 ```
 
 ---
 
-## Technical Arsenal
+## Technology Stack
 
 ![Technical Stack](https://skillicons.dev/icons?i=python,pytorch,js,cpp,html,css,nodejs,react,git,docker,linux,vscode,github&theme=dark)
 
 ---
 
-## Featured Production Systems
+## Projects & Repositories
 
-| System | Architecture & Engineering Focus | Core Stack | Live Production Deployment |
+| Repository | Project Description | Key Technologies | Production / Code Link |
 |---|---|---|---|
-| **[HeartGuard AI](https://github.com/IronLad123/heart-disease-prediction-app)** | Cardiovascular risk assessment platform featuring 5-model ensemble architecture, TreeSHAP explainability, Polar Radar benchmarking, and PDF clinical report generation. | `Python` `Streamlit` `Scikit-Learn` `SHAP` | 🟢 [Streamlit Cloud](https://github.com/IronLad123/heart-disease-prediction-app) |
-| **[KeyFlux](https://ironlad123.github.io/typing-test/)** | High-performance typing analytics platform with zero-latency CSS hardware acceleration, Web Audio sound synthesizer, and SHAP weakness driller. | `JavaScript` `HTML5` `CSS Variables` `Web Audio` | 🌐 [KeyFlux Live Site](https://ironlad123.github.io/typing-test/) |
-| **[Stock Analyzer](https://ironlad123.github.io/Stock_Analyzer/)** | Real-time financial analytics platform with Chart.js visualization, CSV quote-aware statement parser, news sentiment NLP, and strategy backtester. | `JavaScript` `Chart.js` `Python` `Pandas` | 🌐 [Stock Analyzer Site](https://ironlad123.github.io/Stock_Analyzer/) |
-| **[CryptoMed](https://github.com/IronLad123/crypto-med-app)** | Encrypted electronic medical records system utilizing AES-256 + RSA hybrid cryptography and emergency QR code authentication. | `Python` `Cryptography` `Streamlit` `QR Code` | 🔒 [Source Repository](https://github.com/IronLad123/crypto-med-app) |
+| **[HeartGuard AI](https://github.com/IronLad123/heart-disease-prediction-app)** | Machine learning application for cardiovascular risk assessment with SHAP feature interpretability and PDF report generation. | `Python` `Streamlit` `Scikit-Learn` `SHAP` | 🟢 [Streamlit Cloud](https://github.com/IronLad123/heart-disease-prediction-app) |
+| **[KeyFlux](https://ironlad123.github.io/typing-test/)** | Web-based typing speed and accuracy testing application with sound feedback, analytics, and performance tracking. | `JavaScript` `HTML5` `CSS` `Web Audio` | 🌐 [KeyFlux Live Site](https://ironlad123.github.io/typing-test/) |
+| **[Stock Analyzer](https://ironlad123.github.io/Stock_Analyzer/)** | Stock market technical analysis tool featuring interactive charts, statement parsing, and quantitative backtesting. | `JavaScript` `Chart.js` `Python` `Pandas` | 🌐 [Stock Analyzer Site](https://ironlad123.github.io/Stock_Analyzer/) |
+| **[CryptoMed](https://github.com/IronLad123/crypto-med-app)** | Secure medical records application utilizing hybrid encryption (AES-256 + RSA) and emergency QR code access. | `Python` `Cryptography` `Streamlit` `QR Code` | 🔒 [Source Code](https://github.com/IronLad123/crypto-med-app) |
 
 ---
 
-## GitHub Analytics
+## Activity & Metrics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IronLad123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IronLad123&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IronLad123&theme=tokyonight&hide_border=true)
 
 ---
 
