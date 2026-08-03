@@ -14,9 +14,10 @@
 
 ### 🚀 About Me
 
-- 🔬 **Focus**: Machine Learning, Autonomous AI Agent Systems (Google Antigravity SDK), Data Analytics, and Full-Stack Engineering.
+- 🔬 **Focus**: Machine Learning, Autonomous AI Agent Systems, Data Analytics, and Full-Stack Engineering.
 - 🎓 **Education**: Data Science & Artificial Intelligence Student.
 - ⚡ **Passion**: Turning complex data & machine learning models into sleek, zero-latency, production-ready web applications.
+- 🤝 **Pair Programming**: Building projects in continuous pair-programming collaboration with **Google Antigravity AI**.
 - 📫 **Contact**: `om.srivastava2023@vitstudent.ac.in` | [LinkedIn](https://www.linkedin.com/in/om-srivastava-6717b7277/)
 
 ---
@@ -63,5 +64,5 @@
 ---
 
 <p align="center">
-  <i>Automated & Maintained by <b>Antigravity Multi-Agent GitHub Pipeline</b></i>
+  <i>Engineered by <b>Om Srivastava (@IronLad123)</b> in pair-programming partnership with <b>Google Antigravity AI</b> ⚡</i>
 </p>
